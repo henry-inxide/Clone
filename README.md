@@ -5,7 +5,7 @@ FB OLD CLONE ACCOUNTS
 
 rm -rf Clone
 
-https://github.com/henry-inxide/Clone.git
+git clone https://github.com/henry-inxide/Clone.git
 
 cd Clone
 
